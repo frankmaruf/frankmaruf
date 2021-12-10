@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frankmaruf
-- 👀 I’m interested in python, django, react,kivy
+- 👀 I’m interested in python, django, MERN, kivy
 - 🌱 I’m currently learning those interested things
 - 💞️ I’m looking to collaborate on django, react
 - 📫 How to reach me thefrankmaruf@gmail.com
