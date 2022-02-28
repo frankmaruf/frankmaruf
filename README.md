@@ -1,15 +1,17 @@
 - 👋 Hi, I’m @frankmaruf
-- 👀 I’m interested in python, django, MERN, kivy
+- 👀 I’m interested in python, django, MERN, Laravel, NodeJS
 - 🌱 I’m currently learning those interested things
-- 💞️ I’m looking to collaborate on django, react
+- 💞️ I’m looking to collaborate on django, react,Laravel
 - 📫 How to reach me thefrankmaruf@gmail.com
 - 👀 [Codesandbox](https://codesandbox.io/u/frankmaruf).
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frankmaruf" alt="FrankMaruf" /></a> </p>
-<h3 align="left">Programming language:</h3>
+<h3 align="left">language:</h3>
 <p align="left">
  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="php.net" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/> </a>
  </p>
+ <a href="https://graphql.org/" target="_blank"> <img src="https://graphql.org/img/logo.svg" alt="Graphql" width="40" height="40"/> </a>
 <h3 align="left">Front-end:</h3>
 <p align="left">
 <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
@@ -24,6 +26,7 @@
  <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="django-rest-framework" width="90" height="40"/> </a>
+ <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="90" height="40"/> </a>
  </p>
  <h3 align="left">Testing Tools:</h3>
  <p align="left">
@@ -39,11 +42,17 @@
  <p align="left">
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   </p>
+  
+  <h3 align="left">CLI:</h3>
+ <p align="left">
+ <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="Docker" width="60"/> </a>
+  </p>
  
   <h3 align="left">Design Tools:</h3>
   <p align="left">
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> </a>
   </p>
   
 
