@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frankmaruf
 - 👀 I’m interested in python, django, MERN, Laravel, NodeJS
 - 🌱 I’m currently learning those interested things
-- 💞️ I’m looking to collaborate on django, react,Laravel
+- 💞️ I’m looking to collaborate on django, react,NextJS,Laravel
 - 📫 How to reach me thefrankmaruf@gmail.com
 - 👀 [Codesandbox](https://codesandbox.io/u/frankmaruf).
 
