@@ -45,7 +45,7 @@
   
   <h3 align="left">CLI:</h3>
  <p align="left">
- <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="Docker" width="60"/> </a>
+ <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="60"/> </a>
   </p>
  
   <h3 align="left">Design Tools:</h3>
