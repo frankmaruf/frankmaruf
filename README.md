@@ -1,66 +1,100 @@
-- 👋 Hi, I’m @frankmaruf
-- 👀 I’m interested in python, Django,Laravel
-- 🌱 I’m currently learning those interested things
-- 💞️ I’m looking to collaborate on Django, React, NextJS,Laravel
-- 📫 How to reach me thefrankmaruf@gmail.com
-- 👀 [Codesandbox](https://codesandbox.io/u/frankmaruf).
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frankmaruf" alt="FrankMaruf" /></a> </p>
-<h3 align="left">language:</h3>
-<p align="left">
- <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="php.net" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/> </a>
- </p>
- <a href="https://graphql.org/" target="_blank"> <img src="https://graphql.org/img/logo.svg" alt="Graphql" width="40" height="40"/> </a>
-<h3 align="left">Front-end:</h3>
-<p align="left">
-<a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
- </p>
- <h3 align="left">Backend:</h3>
- <p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="django-rest-framework" width="90" height="40"/> </a>
- <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="90" height="40"/> </a>
- </p>
- <h3 align="left">Testing Tools:</h3>
- <p align="left">
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- </p>
- <h3 align="left">Deployment:</h3>
-  <p align="left">
- <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
- </p>
- 
- 
-  <h3 align="left">Version control:</h3>
- <p align="left">
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  </p>
-  
-  <h3 align="left">CLI:</h3>
- <p align="left">
- <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="60"/> </a>
-  </p>
- 
-  <h3 align="left">Design Tools:</h3>
-  <p align="left">
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/800px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> </a>
-  </p>
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Md.%20Abdullah%20Al%20Maruf&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20Laravel%20%E2%80%A2%20APIs&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
 
+<a href="mailto:thefrankmaruf@gmail.com"><img src="https://img.shields.io/badge/Email-thefrankmaruf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://codesandbox.io/u/frankmaruf"><img src="https://img.shields.io/badge/CodeSandbox-frankmaruf-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox"/></a>
+<img src="https://komarev.com/ghpvc/?username=frankmaruf&style=for-the-badge&color=blueviolet" alt="profile views"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankmaruf&show_icons=true&locale=en&layout=compact" alt="FrankMaruf" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankmaruf&show_icons=true&locale=en" alt="FrankMaruf" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankmaruf&" alt="FrankMaruf" /></p>
-<!---
-frankmaruf/frankmaruf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+```yaml
+name: Md. Abdullah Al Maruf
+role: Backend Developer
+focus:
+  - Python · Django · Django REST Framework
+  - Laravel · PHP
+  - REST & GraphQL APIs
+  - Databases & system design
+learning: Microservices, scalable architecture, cloud-native development
+open-to: Collaborations on Django, Laravel, and API-driven projects
+contact: thefrankmaruf@gmail.com
+```
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Backend Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### APIs & Communication
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### Also work with
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=frankmaruf&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=frankmaruf&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies"/>
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:thefrankmaruf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://codesandbox.io/u/frankmaruf"><img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white"/></a>
+<a href="https://github.com/frankmaruf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>💬 Always open to interesting backend conversations and new opportunities.</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
